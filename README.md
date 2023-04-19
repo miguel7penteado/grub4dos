@@ -28,8 +28,17 @@ https://github.com/chenall/grub4dos/releases
 - [ntloader](https://github.com/grub4dos/ntloader) 启动 Windows WIM/VHD
 - [grub4dos-build](https://github.com/chenall/grub4dos-build) grub4dos 编译脚本
 
-## 论坛 / BUG 反馈
+## Documentação
 
-- [无忧启动](http://bbs.c3.wuyou.net/forum.php?mod=forumdisplay&fid=60) (Simplified Chinese)
-- [GitHub Issues](https://github.com/chenall/grub4dos/issues)
+- [Lista de Interrupções](http://www.ctyme.com/rbrown.htm)
+- [Visão no editor de texto Hexa sobre o setor de boot NTFS e seu carregador de boot](http://www.therdcom.com/asm/mbr/NTFSbrHexEd.htm)
+- [Layout do sistema de arquivos ext2](http://www.nongnu.org/ext2-doc/ext2.html)
+- [OSD: A antiga inicialização do PC](http://my.execpc.com/CE/AC/geezer/osd/boot/)
+- [Especificação da Memória Extendida](http://freedos.sourceforge.net/freedos/news/press/1991-xms30.html)
+- [Tutorial VESA](http://www.monstersoft.com/tutorial1/)
+- [Área de Dados da BIOS](http://www.bioscentral.com/misc/bda.htm)
+- [Documentação de Hardware e Software](http://www.o3one.org/hwdocs.html)
+
+
+- 
 
