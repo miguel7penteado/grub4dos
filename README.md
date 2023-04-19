@@ -2,7 +2,12 @@
 
 ![GitHub](https://img.shields.io/github/license/chenall/grub4dos?style=flat-square) ![GitHub Release Date](https://img.shields.io/github/release-date/chenall/grub4dos?style=flat-square) ![GitHub all releases](https://img.shields.io/github/downloads/chenall/grub4dos/total?style=flat-square)
 
-Gerenciador de inicialização multifuncional
+GRUB for DOS padrão nada mais é do que o pacote GRUB compilador para rodar a partir de um MS-DOS ou MS-Windows que operem na versão "BIOS" de carregamento do PC, como é o caso dos windows 7, Vista e anteriores.
+Ou seja, você vai encontrar um **GRUB.exe** para executar no terminal do windows.
+
+Só que ai que vem o grande desafio: aqui você vai encontrar o **código-fonte** para compilar e gerar esse GRUB para MS-DOS. E não é exatamente através de um MS-Visual Studio que você vai fazer isso. Pelo menos não por enquanto.
+
+
 
 ## download
 
