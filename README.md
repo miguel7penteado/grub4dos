@@ -17,16 +17,16 @@ https://github.com/chenall/grub4dos/releases
 
 ## filial
 
-- [0.4.6a (Legacy BIOS)](https://github.com/chenall/grub4dos/tree/0.4.6a) [更新日志](https://github.com/chenall/grub4dos/blob/0.4.6a/ChangeLog_chenall.txt)
-- [0.4.5c (Legacy_BIOS)](https://github.com/chenall/grub4dos/tree/master) [更新日志](https://github.com/chenall/grub4dos/blob/master/ChangeLog_GRUB4DOS.txt)
-- [efi (i386-efi/x86_64-efi)](https://github.com/chenall/grub4dos/tree/efi) [更新日志](https://github.com/chenall/grub4dos/blob/efi/ChangeLog_UEFI.txt)
+- [0.4.6a (Legacy BIOS)](https://github.com/chenall/grub4dos/tree/0.4.6a) [Changelog](https://github.com/chenall/grub4dos/blob/0.4.6a/ChangeLog_chenall.txt)
+- [0.4.5c (Legacy_BIOS)](https://github.com/chenall/grub4dos/tree/master) [Changelog](https://github.com/chenall/grub4dos/blob/master/ChangeLog_GRUB4DOS.txt)
+- [efi (i386-efi/x86_64-efi)](https://github.com/chenall/grub4dos/tree/efi) [Changelog](https://github.com/chenall/grub4dos/blob/efi/ChangeLog_UEFI.txt)
 
 ## Comandos e ferramentas externas
 
-- [grubutils](https://github.com/chenall/grubutils) grub4dos/grub4efi 外部命令
-- [mkimage](https://github.com/grub4dos/mkimage) grub4efi 启动文件生成工具
-- [ntloader](https://github.com/grub4dos/ntloader) 启动 Windows WIM/VHD
-- [grub4dos-build](https://github.com/chenall/grub4dos-build) grub4dos 编译脚本
+- [grubutils](https://github.com/chenall/grubutils) grub4dos/grub4efi 
+- [mkimage](https://github.com/grub4dos/mkimage) 
+- [ntloader](https://github.com/grub4dos/ntloader) Windows WIM/VHD
+- [grub4dos-build](https://github.com/chenall/grub4dos-build) grub4dos
 
 ## Documentação
 
@@ -38,7 +38,5 @@ https://github.com/chenall/grub4dos/releases
 - [Tutorial VESA](http://www.monstersoft.com/tutorial1/)
 - [Área de Dados da BIOS](http://www.bioscentral.com/misc/bda.htm)
 - [Documentação de Hardware e Software](http://www.o3one.org/hwdocs.html)
-
-
-- 
+ 
 
